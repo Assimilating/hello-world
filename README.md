@@ -1,2 +1,2 @@
 # hello-world
-follow the hello world guide
+Transire suum pectus mundoque potiri
